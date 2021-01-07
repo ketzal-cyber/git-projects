@@ -1,0 +1,47 @@
+/* Styles */
+
+
+.t-head {
+	background: #33D4FF;
+	text-size: 20px;
+}
+
+.tb_valor {
+	background: #B0B1B2;
+	font-family: Comic Sans MS,verdana;
+	font-size: 30px;
+}
+
+.tr_td {
+	margin: 0px;
+}
+
+/* */
+.equipos {
+	width:100%;
+	border: 1px solid #000;
+	margin: 5px;
+	padding: 10px;
+	position: relative;
+	margin-bottom: 10px;
+}
+
+/* */
+.e_one{
+	width: 45%;
+	border: 1px solid red;
+}
+.e_two {
+	width: 45%;
+	border: 1px solid red;
+	float: right;
+	position:relative;
+}
+
+/* */
+.nav-footer {
+	height:250px;
+	background-color: #222425;
+	margin-top: 5px;
+	text-align: center;
+}
