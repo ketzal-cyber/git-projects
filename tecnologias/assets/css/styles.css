@@ -1,0 +1,182 @@
+/* Styles */
+
+
+body {
+	background: #FBFCF4;
+	font-family: sans-serif;
+}
+
+.contein{
+	border: solid red;
+}
+
+
+/*container*/
+.contenido{
+	border: solid red;
+    display: inline-block;
+    padding: 5px;
+    margin-bottom: 5px;
+}
+
+
+.asid{
+	
+}
+
+.list_ul{
+	list-style: none;
+	color: blue;
+}
+
+.est_a{
+	text-decoration: none;
+}
+
+
+.div-h h3{
+	display: contents;
+    width: 10px;
+}
+.div-h2{
+
+}
+
+/* end generales*/
+
+.cont_art{
+	font-family: sans-serif;
+    text-align: start;
+    font-size: x-large;
+}
+.cont_art h2 {
+	text-align: center;
+}
+
+/* star header
+
+*/
+.contenn{
+	 border: solid red;
+    display: list-item;
+    width: 20em;
+    margin-bottom: 24px;
+}
+
+.nav-h {
+    width: 69%;
+    float: left;
+}
+
+.div-h {
+	width: 59%;
+    font-size: 2em;
+}
+
+.nav-head > div {
+	display: block;
+}
+
+.redes-h h3 {
+	float: left;
+}
+
+.imges{
+	width:25px;
+	height: 25px;
+}
+
+/* end header*/
+
+
+/*cuerpo de pagina */
+.bod-art{
+	border: solid black;
+	width: 100%;
+	padding: 4px;
+}
+.con {
+	border: solid yellow;
+    height: 25em;
+}
+
+.nav-lef{
+	background-color: #070949;
+    width: 23%;
+    float: left;
+    margin-right: 15px;
+    color: darkorange;
+}
+
+.nav-lef h3 {
+	text-align-last: center;
+}
+.nav-lef ul li a{
+	color: darkorange;
+}
+
+.contenedor{
+	margin-left: 20em;
+    background: azure;
+    margin-right: 167px;
+    text-align-last: center;
+}
+
+
+.secon-con{
+	border: solid green;
+}
+
+.secon-con h3{
+	text-align: center;
+}
+.div-img{
+	border: solid;
+    width: 80%;
+    columns: 3;
+    margin-left: 137px;
+}
+
+.cards {
+	border: solid black;
+	width: 78%;
+}
+
+.cards img {
+	width: 100%;
+    max-height: 20%;
+}
+
+.thre-con{
+
+}
+
+.four-con{
+
+}
+/*end body de pagina*/
+
+
+/* star footer*/
+.nav-footer {
+	background: #070949;
+    position: inherit;
+    font-family: sans-serif;
+    color: #ffff;
+    padding: 2em;
+}
+
+.nav-footer div ul li a {
+	color: darkorange;
+}
+
+.div-foot {
+	text-align: center;
+	color: darkorange;
+}
+
+.bloq{
+	margin-bottom: 2em;
+}
+
+/* end footer*/

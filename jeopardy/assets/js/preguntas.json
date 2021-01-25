@@ -1,0 +1,59 @@
+  
+  [
+            {
+              "claveAsk"   : "cat1val5",
+              "question"   : "¿Pregunta cat_1val_5?",
+              "res_1"      : "Lo se",
+              "res_2"      : "No se",
+              "res_3"      : "Podria ser",
+              "correcto"   : "res_1"
+            },
+            {
+              "claveAsk": "cat2val4",
+              "question": "¿Pregunta cat_2val_4?",
+              "res_1": "Lo se",
+              "res_2": "No se",
+              "res_3": "Podria ser",
+              "correcto": "res_2"
+            },
+            {
+              "claveAsk": "cat3val3",
+              "question": "¿Pregunta cat_3val_3?",
+              "res_1": "Lo se",
+              "res_2": "No se",
+              "res_3": "Podria ser",
+              "correcto": "res_3"
+            },
+            {
+              "claveAsk": "cat2val2",
+              "question": "¿Pregunta cat_2val_2?",
+              "res_1": "Lo se",
+              "res_2": "No se",
+              "res_3": "Podria ser",
+              "correcto": "res_1"
+            },
+            {
+              "claveAsk": "cat1val1",
+              "question": "¿Pregunta cat_1val_1?",
+              "res_1": "Lo se",
+              "res_2": "No se",
+              "res_3": "Podria ser",
+              "correcto": "res_2"
+            },
+            {
+             "claveAsk": "cat1val2",
+              "question": "¿Pregunta cat_1val_2?",
+              "res_1": "Lo se",
+              "res_2": "No se",
+              "res_3": "Podria ser",
+              "correcto": "res_3"
+            },
+            {
+              "claveAsk": "cat1val3",
+              "question": "¿Pregunta cat_1val_3?",
+              "res_1": "Lo se",
+              "res_2": "No se",
+              "res_3": "Podria ser",
+              "correcto": "res_1"
+            }
+]

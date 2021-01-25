@@ -16,20 +16,77 @@
 	margin: 0px;
 }
 
+/*
+star divs
+*/
+.div-conten{
+	border: solid red;
+    padding: 1.5%;
+}
+
+.div-t{
+	text-align: center;
+    font-family: fantasy;
+    font-size: x-large;
+}
+
+
+.div-b{
+	border: solid orange;
+}
+
+.div-col{
+	border: solid yellow;
+	columns: 5;	
+}
+
+.div-h{
+	background-color: #f16113;
+    text-align: center;
+    font-family: fantasy;
+    font-size: x-large;
+}
+
+.boton a {
+	text-align: center;
+    display: block;
+    width: 100%;
+    height: 100%;
+    font-family: fantasy;
+    font-size: 2em;
+    background-color: #1e1ef1;
+    color: ghostwhite;
+    text-decoration: none;
+}
+
+/*
+end divs
+*/
+.div-head{
+	width: 100%;
+    border: solid black;
+}
+
+.div_td{
+	background-color: black;
+}
+
+
 /* */
 .equipos {
-	width:100%;
-	border: 1px solid #000;
-	margin: 5px;
-	padding: 10px;
-	position: relative;
-	margin-bottom: 10px;
+	width: 100%;
+    border: 1px solid #000;
+    margin: 5px;
+    padding: 10px;
+    margin-bottom: 17px;
+    height: 159px;
 }
 
 /* */
 .e_one{
 	width: 45%;
-	border: 1px solid red;
+    border: 1px solid red;
+    float: left;
 }
 .e_two {
 	width: 45%;
