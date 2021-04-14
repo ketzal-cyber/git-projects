@@ -1,0 +1,11 @@
+
+# table users 
+	DBA_USERS
+
+# asignar privilegios a usuario en oracle
+SQL> GRANT CREATE ANY TABLE, DROP ANY TABLE, SELECT ANY TABLE, INSERT ANY TABLE, UPDATE ANY TABLE, DELETE ANY TABLE TO user_name;
+
+# Seleccionar  las tablas del usuario
+   select table_name from user_tables;
+
+

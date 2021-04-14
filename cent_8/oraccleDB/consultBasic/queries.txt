@@ -1,0 +1,4 @@
+# Queries en oracleDB
+# 1 Describir una tabla
+
+
