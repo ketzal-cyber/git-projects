@@ -1,1 +1,3 @@
-Realizar proyecto en AngularLeer sobre DevOps
+Realizar proyecto en Angular
+Leer sobre DevOpsPracticar comandos git
+Practicar JavaScript
