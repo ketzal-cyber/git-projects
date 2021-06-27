@@ -1,0 +1,64 @@
+body {
+	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),url(arbol2.png);
+	height: 80vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.header {
+	color: #FFFFFF;
+	padding: 15px;
+	text-align: center;
+}
+
+.main {
+	border: solid 5px red;
+	color: blue;
+}
+
+.tree{
+	width: 50px;
+	height: 50px;
+	-moz-border-radius:50%;
+	-webkit-border-radius:50%;
+	border-radius: 50px;
+	background: #5cb85c;
+}
+
+.text-tree {
+	padding: 15px;
+	text-align: center;
+	font-size: 20px;
+}
+
+.order-tree1 {
+	margin: 0 0 20px 4em;
+}
+
+.order-tree2 {
+	margin: 30px 3em 30px 4em;
+}
+
+.order-tree4 {
+	margin: 30px 3em 30px 14em;
+}
+
+.order-tree5 {
+	margin: 30px 3em 30px 8em;
+}
+
+.order-tree6 {
+	margin: 20px 3em -5em 20em;
+}
+
+.order-tree7 {
+	margin: 20px -3em 1em 14em;
+}
+
+.order-tree8 {
+	margin: 30px 3em 0px 8em;
+}
+
+.order-tree9 {
+	margin: 0px 1em -1px 13em;
+}

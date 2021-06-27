@@ -1,0 +1,387 @@
+/* Styles */
+
+
+body {
+	background: #ebecdd;
+    font-family: sans-serif;
+}
+
+.contein{
+	/*border: solid red;*/
+}
+
+
+/*container
+border: solid red;
+*/
+.contenido{
+	
+    width: 90%;
+    display: inline-block;
+    padding: 5px;
+    margin-left: 2em
+}
+
+/* border: solid orange;*/
+.contenido2{
+   
+    width: 40%;
+    float: left;   
+}
+
+/* border: solid orange;*/
+.contenido3{
+   
+    width: 40%;
+    margin-left:42em;
+}
+
+
+.asid{
+	
+}
+
+.list_ul{
+	list-style: none;
+	color: blue;
+}
+
+.est_a{
+	text-decoration: none;
+}
+
+
+.div-h h3{
+	display: contents;
+    width: 10px;
+}
+.div-h2{
+	float: right;
+    padding: 5px;
+}
+
+.head-menu{
+	position: relative;
+}
+
+.head-menu nav {
+	position: relative;
+    width: 80%;
+    max-width: 1000px;
+    margin: auto;
+}
+
+.head-menu nav ul {
+	margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.head-menu nav ul li {
+	position: relative;
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    text-align: center;
+    background-color: chocolate;
+    font-family: cursive;
+    font-size: 1.5em;
+}
+
+.head-menu nav ul li a{
+	text-decoration: none;
+    color: #333;
+}
+
+/* end generales*/
+
+.cont_art{
+	font-family: sans-serif;
+    text-align: start;
+    font-size: x-large;
+}
+.cont_art h2 {
+	text-align: center;
+}
+
+/* star header
+
+*/
+.contenn{
+	 /*border: solid red;*/
+    display: list-item;
+    width: 100%;
+    margin-bottom: 24px;
+    margin: auto;
+    height: 5em;
+}
+
+.nav-h {
+    width: 69%;
+    margin-left: 50px;
+    margin-bottom: 15px;
+}
+
+.div-h {
+	width: 59%;
+    font-size: 2em;
+}
+
+.nav-head > div {
+	display: block;
+}
+
+.redes-h h3 {
+	float: left;
+}
+
+.imges{
+	width:25px;
+	height: 25px;
+    border-radius: 150px; 
+    -webkit-border-radius: 150px; 
+    -moz-border-radius: 150px;
+}
+
+/* end header*/
+
+
+/*cuerpo de pagina */
+.bod-art{
+    width: 99%;
+    padding: 4px;
+}
+.con {
+	border: solid yellow;
+    height: 25em;
+}
+
+.nav-lef{
+	background-color: #070949;
+    width: 23%;
+    float: left;
+    margin-right: 15px;
+    color: darkorange;
+}
+
+.nav-lef h3 {
+	text-align-last: center;
+}
+.nav-lef ul li a{
+	color: darkorange;
+}
+
+.contenedor{
+	margin-left: 20em;
+    background: azure;
+    margin-right: 167px;
+    text-align-last: center;
+}
+
+/*border: solid green;*/
+.secon-con{
+	
+}
+
+.secon-con h3{
+	text-align: center;
+}
+.div-img{
+	border: solid;
+    width: 80%;
+    margin-left: 137px;
+}
+
+.div-img ul, ol{
+    list-style: none;
+}
+
+.div-img .nav > li{
+    float: left;
+}
+
+.div-img .nav li a{
+    text-decoration: none;
+}
+
+.div-img .nav li a:hover{
+    background-color: #434343;
+    }
+
+.div-img .nav li ul {
+    display: none;
+    position: absolute;
+}
+
+.div-img .nav li:hover > ul {
+    display: block;
+}
+
+.div-img .nav li ul li{
+    position: relative;
+}
+
+
+
+.cards {
+	border: solid black;
+	width: 78%;
+}
+
+/*tamaño de img contenido central*/
+.cards .img-card {
+	width:10em;
+    height: 10em;
+}
+
+.thre-con{
+
+}
+
+.four-con{
+
+}
+/*end body de pagina*/
+
+
+/* star footer*/
+.nav-footer {
+	background: #070949;
+    position: inherit;
+    font-family: sans-serif;
+    color: #ffff;
+    padding: .5em;
+}
+
+.nav-footer div ul li a {
+	color: darkorange;
+}
+
+#list_cont{
+    width: 15%;
+    float: left;
+}
+
+.div-foot {
+	text-align: center;
+	color: darkorange;
+    margin: 5px;
+}
+
+.bloq{
+	margin-bottom: 2em;
+}
+
+.red-logos{
+    width: 80px;
+    margin: 0 10em;
+}
+
+.logo{
+    float: left;
+    margin: 15px 5px;
+}
+
+.logo2 { 
+    width: 300px; 
+    height: 300px; 
+    border-radius: 150px; 
+    -webkit-border-radius: 150px; 
+    -moz-border-radius: 150px; 
+    background: url(https://www.tublog.com/tuimagen.jpg) no-repeat; 
+}
+
+.logo2{
+    margin-left: 5em;
+}
+
+
+
+.raiz2 {
+    width: 55px;
+    margin: 0 4.5em;
+    float: left;
+}
+.raiz3 {
+    margin: 0 17em;
+}
+
+.raiz .imges{
+    width:50px;
+    height: 50px;
+    border-radius: 150px; 
+    -webkit-border-radius: 150px; 
+    -moz-border-radius: 150px; 
+}
+
+.raiz4 {
+    margin: 1em 4.5em;
+}
+.enlace{
+    width: 80px;
+    transform: rotate(90deg);
+}
+.raiz5 {
+    margin: 0 2em;
+}
+.enlace1{
+    width: 80px;
+    transform: rotate(115deg);
+}
+.raiz6 {
+    margin: 1em .5em;
+}
+.enlace2{
+    width: 80px;
+    transform: rotate(-135deg);
+    margin: -3px 7em
+}
+/*servidores*/
+.raiz7 {
+    margin: -2em 7em 0 0;
+    float: right;
+}
+/*izq*/
+.raiz8 {
+    margin: -2em 10em 0 0;
+    float: right;
+}
+/*der*/
+.raiz9 {
+    margin: -2em -4em 0 0;
+    float: right;
+}
+
+
+.raiz10 {
+    width: 55px;
+    margin: 3px .8em;
+    float: left;
+}
+.raiz11 {
+    width: 55px;
+    margin: 3px .8em;
+    float: left;
+}
+.raiz12 {
+    width: 55px;
+    margin: 3px 1em;
+    float: left;
+}
+.raiz13 {
+    width: 55px;
+    margin: 1em -1em 0 .5em;
+    float: left;
+}
+.raiz14 {
+    width: 55px;
+    margin: 1em 0 0 3em;
+    float: left;
+}
+.raiz15 {
+    width: 55px;
+    margin: 1em 1em 0 0;
+    float: right;
+}
+
+/* end footer*/
